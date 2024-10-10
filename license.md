@@ -16,7 +16,7 @@ Licensee acknowledges that any commercial, educational, or government use of the
 Individuals who notify the Licensor in writing of a specific violation of this Agreement may be eligible for a reward of up to 10% of any successful legal settlement resulting from that violation, calculated after taxes. The written notice must provide sufficient details about the violation, and the individual must be the first to provide this information. If multiple individuals submit information that collectively enables a successful legal settlement, the Licensor shall, at their sole discretion, determine the division of the 10% reward.
 
 4. Listing of  Commercial, Educational, and Government Licensees\
-All existing commercial and educational and government licensees are listed at the following resource:\
+All existing commercial, educational and government licensees are listed at the following resource:\
 [https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md](https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md)\
 Any commercial or educational licensee must agree to be listed at this resource for verification purposes.
 
