@@ -18,7 +18,7 @@ Individuals who notify the Licensor in writing of a specific violation of this A
 4. Listing of  Commercial, Educational, and Government Licensees\
 All existing commercial, educational and government licensees are listed at the following resource:\
 [https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md](https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md)\
-Any commercial or educational licensee must agree to be listed at this resource for verification purposes.
+Any commercial, educational, or government licensee must agree to be listed at this resource for verification purposes.
 
 5. License Violations\
 If a commercial or educational licensee is found to be in violation of this Agreement by the Licensor, they agree that their information may be added to a violations resource at:\
