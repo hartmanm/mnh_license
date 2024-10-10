@@ -5,7 +5,7 @@ IMPORTANT: READ THIS AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE.
 This Software License Agreement ("Agreement") is made between Michael Neill Hartman ("Licensor") and you ("Licensee"). By installing, copying, or using the software, methods, or architecture ("Software") in whole or part, Licensee agrees to be bound by the terms of this Agreement.
 
 1. Grant of License\
-Licensor grants Licensee a non-exclusive, non-transferable license to use the Software solely for personal purposes, provided that all such use is in accoradance with this entire license agreement and includes the attribution:\
+Licensor grants Licensee a non-exclusive, non-transferable license to use the Software solely for personal purposes on a single machine, provided that all such use is in accoradance with this entire license agreement and includes the attribution:\
 [https://github.com/hartmanm/mnh_license/attribution](https://github.com/hartmanm/mnh_license/attribution)
 The attribution may be modified at any time, and Licensee is required to update their attribution accordingly.
 
@@ -30,6 +30,8 @@ The Software may include specific methods, processes, and architectural designs.
 7. Restrictions\
 Licensee shall not:\
 Modify, translate, distribute, rent, lease, or sell the Software.\
+Use the Software on more than one physical machine.\
+Use the Software in more than one virtual machine or container.\
 Use the Software for any unlawful purpose.
 
 8. Ownership\
@@ -52,10 +54,5 @@ The contact_information for this Agreement be modified at any time by the Licens
 [https://github.com/hartmanm/mnh_license/contact_information](https://github.com/hartmanm/mnh_license/contact_information)
 
 14. Entire Agreement\
-This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements and understandings, unless specifically restricted by a separate license agreement.
-
+This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements and understandings, unless specifically restricted by a separate license agreement.\
 By installing, copying, or using the software, methods, or architecture ("Software") in whole or part, Licensee acknowledges that they have read, understood, and agreed to be bound by the terms of this Agreement.
-\
-\
-Contact:\
-Michael Neill Hartman   mnh_license@proton.me
