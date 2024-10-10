@@ -1,3 +1,3 @@
-Copyright (c) Michael Neill Hartman \
+Copyright (c) Michael Neill Hartman. All rights reserved.
 mnh_license@proton.me \
-All rights reserved
+https://github.com/hartmanm
