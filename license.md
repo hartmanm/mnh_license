@@ -41,7 +41,7 @@ The Software is licensed, not sold. Licensor retains all rights, title, and inte
 Licensor may modify this license at any time, unless specifically restricted by a separate license agreement.
 
 10. Termination\
-This Agreement is effective until terminated. Licensee may terminate this Agreement at any time by destroying all copies of the Software. Licensor may terminate this Agreement if Licensee fails to comply with its terms. Upon termination, Licensee must cease all use of the Software and destroy all copies.
+This Agreement is effective until terminated. Licensee may terminate this Agreement at any time by destroying all copies of the Software. Licensor may terminate this Agreement at any time. Upon termination, Licensee must cease all use of the Software and destroy all copies.
 
 11. Disclaimer of Warranty\
 The Software is provided "as is," without warranty of any kind, express or implied. Licensor does not warrant that the Software will meet Licensee's requirements or that its operation will be uninterrupted or error-free.
