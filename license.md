@@ -50,7 +50,7 @@ The Software is provided "as is," without warranty of any kind, express or impli
 In no event shall Licensor be liable for any damages arising from the use of or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
 
 13. Contact Information\
-The contact_information for this Agreement be modified at any time by the Licensor by the modification of the resource:\
+The contact information for this Agreement be modified at any time by the Licensor by the modification of the resource:\
 [https://github.com/hartmanm/mnh_license/contact_information.md](https://github.com/hartmanm/mnh_license/contact_information.md)
 
 14. Forking\
