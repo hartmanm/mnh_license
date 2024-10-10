@@ -53,6 +53,9 @@ In no event shall Licensor be liable for any damages arising from the use of or 
 The contact_information for this Agreement be modified at any time by the Licensor by the modification of the resource:\
 [https://github.com/hartmanm/mnh_license/contact_information.md](https://github.com/hartmanm/mnh_license/contact_information.md)
 
-14. Entire Agreement\
+14. Forking
+Licensee acknowledges that anyone can fork the Software repository on [https://github.com](https://github.com).\ Forking creates a copy of the Software to which this Agreement applies. This License be included in, and applied to any forked versions of the Software.
+
+15. Entire Agreement\
 This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements and understandings, unless specifically restricted by a separate license agreement.\
 By installing, copying, or using the software, methods, or architecture ("Software") in whole or part, Licensee acknowledges that they have read, understood, and agreed to be bound by the terms of this Agreement.
