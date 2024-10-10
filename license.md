@@ -21,7 +21,7 @@ All existing commercial, educational and government licensees are listed at the 
 Any commercial, educational, or government licensee must agree to be listed at this resource for verification purposes.
 
 5. License Violations\
-If a commercial or educational licensee is found to be in violation of this Agreement by the Licensor, they agree that their information may be added to a violations resource at:\
+If a commercial, educational or government licensee is found to be in violation of this Agreement by the Licensor, they agree that their information may be added to a violations resource at:\
 [https://github.com/hartmanm/mnh_license/license_violations.md](https://github.com/hartmanm/mnh_license/license_violations.md)
 
 6. Methods and Architecture\
