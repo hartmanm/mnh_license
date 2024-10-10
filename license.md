@@ -6,7 +6,7 @@ This Software License Agreement ("Agreement") is made between Michael Neill Hart
 
 1. Grant of License\
 Licensor grants Licensee a non-exclusive, non-transferable license to use the Software solely for personal purposes on a single machine, provided that all such use is in accordance with this entire license agreement and includes the attribution:\
-[https://github.com/hartmanm/mnh_license/attribution.md](https://github.com/hartmanm/mnh_license/attribution.md)\
+[https://github.com/hartmanm/mnh_license/blob/main/attribution.md](https://github.com/hartmanm/mnh_license/blob/main/attribution.md)\
 The attribution may be modified at any time, and Licensee is required to update their attribution accordingly.
 
 2. Commercial, Educational, and Government Use\
@@ -17,12 +17,12 @@ Individuals who notify the Licensor in writing of a specific violation of this A
 
 4. Listing of  Commercial, Educational, and Government Licensees\
 All existing commercial, educational and government licensees are listed at the following resource:\
-[https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md](https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md)\
+[https://github.com/hartmanm/mnh_license/blob/main/commercial_educational_and_government_licensees.md](https://github.com/hartmanm/mnh_license/blob/main/commercial_educational_and_government_licensees.md)\
 Any commercial, educational, or government licensee must agree to be listed at this resource for verification purposes.
 
 5. License Violations\
 If a commercial, educational or government licensee is found to be in violation of this Agreement by the Licensor, they agree that their information may be added to a violations resource at:\
-[https://github.com/hartmanm/mnh_license/license_violations.md](https://github.com/hartmanm/mnh_license/license_violations.md)
+[https://github.com/hartmanm/mnh_license/blob/main/license_violations.md](https://github.com/hartmanm/mnh_license/blob/main/license_violations.md)
 
 6. Methods and Architecture\
 The Software may include specific methods, processes, and architectural designs. Licensee acknowledges that these elements are proprietary to the Licensor and agrees not to replicate, distribute, or otherwise use the methods or architecture in whole or part outside the scope of this Agreement.
@@ -51,7 +51,7 @@ In no event shall Licensor be liable for any damages arising from the use of or 
 
 13. Contact Information\
 The contact information for this Agreement be modified at any time by the Licensor by the modification of the resource:\
-[https://github.com/hartmanm/mnh_license/contact_information.md](https://github.com/hartmanm/mnh_license/contact_information.md)
+[https://github.com/hartmanm/mnh_license/blob/main/contact_information.md](https://github.com/hartmanm/mnh_license/blob/main/contact_information.md)
 
 14. Forking\
 Licensee acknowledges that anyone can fork the Software on [https://github.com](https://github.com) \
@@ -59,5 +59,5 @@ Forking creates a copy of the Software to which this Agreement applies. This Lic
 
 15. Entire Agreement\
 This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements and understandings, unless specifically restricted by a separate license agreement listed in: \
-[https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md](https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md)\
+[https://github.com/hartmanm/mnh_license/blob/main/commercial_educational_and_government_licensees.md](https://github.com/hartmanm/mnh_license/blob/main/commercial_educational_and_government_licensees.md)\
 By installing, copying, or using the software, methods, or architecture ("Software") in whole or part, Licensee acknowledges that they have read, understood, and agreed to be bound by the terms of this Agreement.
