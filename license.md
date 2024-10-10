@@ -54,7 +54,7 @@ The contact_information for this Agreement be modified at any time by the Licens
 [https://github.com/hartmanm/mnh_license/contact_information.md](https://github.com/hartmanm/mnh_license/contact_information.md)
 
 14. Forking
-Licensee acknowledges that anyone can fork the Software repository on [https://github.com](https://github.com).\ Forking creates a copy of the Software to which this Agreement applies. This License shall be included in and applied to any forked versions of the Software
+Licensee acknowledges that anyone can fork the Software repository on [https://github.com](https://github.com). \ Forking creates a copy of the Software to which this Agreement applies. This License shall be included in and applied to any forked versions of the Software
 
 15. Entire Agreement\
 This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements and understandings, unless specifically restricted by a separate license agreement.\
