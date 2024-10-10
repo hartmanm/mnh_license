@@ -58,5 +58,6 @@ Licensee acknowledges that anyone can fork the Software on [https://github.com](
 Forking creates a copy of the Software to which this Agreement applies. This License shall be included in and applied to any forked versions of the Software.
 
 15. Entire Agreement\
-This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements and understandings, unless specifically restricted by a separate license agreement.\
+This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements and understandings, unless specifically restricted by a separate license agreement listed in: \
+[https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md](https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md)\
 By installing, copying, or using the software, methods, or architecture ("Software") in whole or part, Licensee acknowledges that they have read, understood, and agreed to be bound by the terms of this Agreement.
