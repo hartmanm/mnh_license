@@ -53,7 +53,7 @@ In no event shall Licensor be liable for any damages arising from the use of or 
 The contact_information for this Agreement be modified at any time by the Licensor by the modification of the resource:\
 [https://github.com/hartmanm/mnh_license/contact_information.md](https://github.com/hartmanm/mnh_license/contact_information.md)
 
-14. Forking
+14. Forking\
 Licensee acknowledges that anyone can fork the Software repository on [https://github.com](https://github.com) \
 Forking creates a copy of the Software to which this Agreement applies. This License shall be included in and applied to any forked versions of the Software
 
