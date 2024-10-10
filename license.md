@@ -5,7 +5,7 @@ IMPORTANT: READ THIS AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE.
 This Software License Agreement ("Agreement") is made between Michael Neill Hartman ("Licensor") and you ("Licensee"). By installing, copying, or using the software, methods, or architecture ("Software") in whole or part, Licensee agrees to be bound by the terms of this Agreement.
 
 1. Grant of License\
-Licensor grants Licensee a non-exclusive, non-transferable license to use the Software solely for personal purposes on a single machine, provided that all such use is in accoradance with this entire license agreement and includes the attribution:\
+Licensor grants Licensee a non-exclusive, non-transferable license to use the Software solely for personal purposes on a single machine, provided that all such use is in accordance with this entire license agreement and includes the attribution:\
 [https://github.com/hartmanm/mnh_license/attribution.md](https://github.com/hartmanm/mnh_license/attribution.md)\
 The attribution may be modified at any time, and Licensee is required to update their attribution accordingly.
 
@@ -54,7 +54,7 @@ The contact_information for this Agreement be modified at any time by the Licens
 [https://github.com/hartmanm/mnh_license/contact_information.md](https://github.com/hartmanm/mnh_license/contact_information.md)
 
 14. Forking
-Licensee acknowledges that anyone can fork the Software repository on [https://github.com](https://github.com).\ Forking creates a copy of the Software to which this Agreement applies. This License be included in, and applied to any forked versions of the Software.
+Licensee acknowledges that anyone can fork the Software repository on [https://github.com](https://github.com).\ Forking creates a copy of the Software to which this Agreement applies. This License shall be included in and applied to any forked versions of the Software
 
 15. Entire Agreement\
 This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements and understandings, unless specifically restricted by a separate license agreement.\
