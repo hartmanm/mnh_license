@@ -10,7 +10,7 @@ Licensor grants Licensee a non-exclusive, non-transferable license to use the So
 The attribution may be modified at any time, and Licensee is required to update their attribution accordingly.
 
 2. Commercial, Educational, and Government Use\
-Licensee acknowledges that both commercial, educational, and government use of the Software are prohibited without a separately negotiated license. If Licensee wishes to use the Software for any of these purposes, Licensee must contact Licensor to negotiate a separate license agreement.
+Licensee acknowledges that all commercial, educational, and government use of the Software are prohibited without a separately negotiated license. If Licensee wishes to use the Software for any of these purposes, Licensee must contact Licensor to negotiate a separate license agreement.
 
 3. Violation Reporting and Reward\
 Individuals who notify the Licensor in writing of a specific violation of this Agreement may be eligible for a reward of up to 10% of any successful legal settlement resulting from that violation, calculated after taxes. The written notice must provide sufficient details about the violation, and the individual must be the first to provide this information. If multiple individuals submit information that collectively enables a successful legal settlement, the Licensor shall, at their sole discretion, determine the division of the 10% reward.
