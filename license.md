@@ -47,10 +47,15 @@ The Software is provided "as is," without warranty of any kind, express or impli
 12. Limitation of Liability\
 In no event shall Licensor be liable for any damages arising from the use of or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
 
-13. Entire Agreement\
+13. Contact Information\
+The contact_information for this Agreement be modified at any time by the Licensor by the modification of the resource:\
+[https://github.com/hartmanm/mnh_license/contact_information](https://github.com/hartmanm/mnh_license/contact_information)
+
+14. Entire Agreement\
 This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements and understandings, unless specifically restricted by a separate license agreement.
 
 By installing, copying, or using the software, methods, or architecture ("Software") in whole or part, Licensee acknowledges that they have read, understood, and agreed to be bound by the terms of this Agreement.
 \
-Contact Information\
+\
+Contact:\
 Michael Neill Hartman   mnh_license@proton.me
