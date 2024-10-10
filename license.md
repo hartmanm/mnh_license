@@ -6,7 +6,7 @@ This Software License Agreement ("Agreement") is made between Michael Neill Hart
 
 1. Grant of License\
 Licensor grants Licensee a non-exclusive, non-transferable license to use the Software solely for personal purposes on a single machine, provided that all such use is in accoradance with this entire license agreement and includes the attribution:\
-[https://github.com/hartmanm/mnh_license/attribution.md](https://github.com/hartmanm/mnh_license/attribution.md)
+[https://github.com/hartmanm/mnh_license/attribution.md](https://github.com/hartmanm/mnh_license/attribution.md)\
 The attribution may be modified at any time, and Licensee is required to update their attribution accordingly.
 
 2. Commercial, Educational, and Government Use\
@@ -17,7 +17,7 @@ Individuals who notify the Licensor in writing of a specific violation of this A
 
 4. Listing of  Commercial, Educational, and Government Licensees\
 All existing commercial and educational licensees are listed at the following resource:\
-[https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md](https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md)
+[https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md](https://github.com/hartmanm/mnh_license/commercial_educational_and_government_licensees.md)\
 Any commercial or educational licensee must agree to be listed at this resource for verification purposes.
 
 5. License Violations\
