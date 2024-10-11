@@ -25,6 +25,7 @@ markdown = markdown.replace(/_(.+?)_/g, '<em>$1</em>');
 markdown = markdown.replace(/^\s*-\s(.+)/gm, '<li>$1</li>');
 markdown = markdown.replace(/(<li>.*?<\/li>)/g, '<ul>$1</ul>');
 markdown = markdown.replace(/\n\n+/g, '</p><p>').replace(/\n/g, '<br>');
+markdown = markdown.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>');
 return `<p>${markdown}</p>`;
 }
 fetch('license.md')
