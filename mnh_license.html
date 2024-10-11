@@ -5,15 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>mnh_license</title>
 <style>
-body { font-family: Arial, sans-serif; }
-#output { border: 1px solid #ccc; padding: 10px; }
+body{font-family: Arial, sans-serif; padding: 10px 10px; color: #0F5900; background-color: #CFF8CF; border-radius: 2px;}
+output{font-family: Arial, sans-serif; padding: 10px 10px; color: #0F5900; background-color: #CFF8CF; border-radius: 2px;}
 </style>
 </head>
 <body>
 <div id="output">...</div>
 <script>
 function markdownToHtml(markdown) {
-markdown = markdown.replace(/\\/g, '\\\\');
+markdown = markdown.replace(/\\\n/g, '<br>');
 markdown = markdown.replace(/(######\s(.+))/g, '<h6>$2</h6>');
 markdown = markdown.replace(/(#####\s(.+))/g, '<h5>$2</h5>');
 markdown = markdown.replace(/(####\s(.+))/g, '<h4>$2</h4>');
