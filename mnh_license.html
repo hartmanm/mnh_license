@@ -26,7 +26,7 @@ markdown = markdown.replace(/(<li>.*?<\/li>)/g, '<ul>$1</ul>');
 markdown = markdown.replace(/\n\n+/g, '</p><p>').replace(/\n/g, '<br>');
 return `<p>${markdown}</p>`;
 }
-fetch('example.md')
+fetch('license.md')
 .then(response => {
 if (!response.ok) {
 throw new Error('Network response was not ok ' + response.statusText);
