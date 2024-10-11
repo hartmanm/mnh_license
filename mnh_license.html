@@ -28,7 +28,7 @@ markdown = markdown.replace(/\n\n+/g, '</p><p>').replace(/\n/g, '<br>');
 markdown = markdown.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>');
 return `<p>${markdown}</p>`;
 }
-fetch('license.md')
+fetch('https://github.com/hartmanm/mnh_license/blob/main/license.md')
 .then(response => {
 if (!response.ok) {
 throw new Error('Network response was not ok ' + response.statusText);
