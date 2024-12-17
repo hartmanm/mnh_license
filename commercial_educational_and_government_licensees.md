@@ -1,2 +1,2 @@
 none\
-report violations to mnh_license@proton.me
+report violations to mnhmnhmnhmnh@proton.me
