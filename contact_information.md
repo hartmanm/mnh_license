@@ -1,2 +1,2 @@
 Michael Neill Hartman
-mnhmnhmnhmnh@proton.me
+michaelneillhartman@proton.me
